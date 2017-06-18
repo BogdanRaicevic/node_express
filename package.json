@@ -19,6 +19,7 @@
   "homepage": "https://github.com/BogdanRaicevic/node_express#readme",
   "dependencies": {
     "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
     "jade": "^1.11.0"
   },
   "devDependencies": {
